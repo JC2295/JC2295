@@ -1,4 +1,6 @@
-### Hi there 👋
+#Jonathan Copeland
+
+**`Engineer & Software Developer`**
 
 I currently work in the field of aerospace engineering but aspire to move transition into the field of web development. I am still currently working on building my portfolio while I work full time and so I will only be taking on small projects at this moment in time as I work to further hone my skillset. If you have a project I could help with please don't hesitate to contact me. I am always looking to gain more experience and develop my skills in software developement.
 
